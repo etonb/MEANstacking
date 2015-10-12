@@ -1,1 +1,1 @@
-Readme file for Angular.js test project.
+Now using this repository to follow Microsoft's MEAN jump start course.
